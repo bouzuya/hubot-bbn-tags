@@ -2,6 +2,8 @@
 
 A Hubot script that display bbn (blog.bouzuya.net) tags
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140920/20140920003331.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-bbn-tags.git
