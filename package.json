@@ -1,6 +1,6 @@
 {
   "name": "hubot-bbn-tags",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display bbn (blog.bouzuya.net) tags",
   "main": "index.js",
   "scripts": {
